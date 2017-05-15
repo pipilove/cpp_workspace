@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Clock - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\pipi\AppData\Local\Temp\RSPBE16.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Clock.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\我的\C++\firstprogram\Clock\Clock.cpp"
+]
+Creating command line "cl.exe @C:\Users\pipi\AppData\Local\Temp\RSPBE16.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Clock.cpp
+e:\我的\c++\firstprogram\clock\clock.cpp(16) : error C2556: 'class Clock __thiscall Clock::SetAlarm(int,int,int)' : overloaded function differs only by return type from 'void __thiscall Clock::SetAlarm(int,int,int)'
+        e:\我的\c++\firstprogram\clock\clock.cpp(13) : see declaration of 'SetAlarm'
+e:\我的\c++\firstprogram\clock\clock.cpp(16) : error C2371: 'SetAlarm' : redefinition; different basic types
+        e:\我的\c++\firstprogram\clock\clock.cpp(13) : see declaration of 'SetAlarm'
+e:\我的\c++\firstprogram\clock\clock.cpp(17) : error C2228: left of '.hour' must have class/struct/union type
+e:\我的\c++\firstprogram\clock\clock.cpp(18) : error C2228: left of '.minute' must have class/struct/union type
+e:\我的\c++\firstprogram\clock\clock.cpp(19) : error C2228: left of '.second' must have class/struct/union type
+e:\我的\c++\firstprogram\clock\clock.cpp(31) : error C2264: 'SetAlarm' : error in function definition or declaration; function not called
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+Clock.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

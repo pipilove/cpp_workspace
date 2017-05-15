@@ -1,0 +1,501 @@
+button{
+	top: 46%;
+	position: absolute;
+}
+.signal {
+	color: red;
+	position: absolute;
+	font-weight: bolder;
+}
+
+.npc{
+	left: 15.5%;
+
+	top: 18.7%;
+}
+
+.pc{
+	left: 16.5%;
+
+	top: 51.7%;
+}
+
+.pcsource{
+	left: 19.5%;
+
+	top: 29%;
+}
+
+.offset{
+left: 15%;
+top: 34%;
+}
+
+.depend{
+	left: 31%;
+
+	top: 13.3%;
+
+}
+
+.addr{
+	left: 29.4%;
+
+	top: 84.6%;
+}
+
+.op{
+	left: 36.3%;
+
+	top: 31.7%;
+}
+
+#rd1{
+	left: 36.4%;
+
+	top: 37%;
+}
+
+#rd2{
+	left: 36.5%;
+
+	top: 56%;
+}
+
+.rs1{
+	
+	left: 36.7%;
+
+	top: 45%;
+
+}
+
+.rs2{
+	left: 36.8%;
+
+	top: 54%;
+}
+
+.imm{
+	left: 48.7%;
+
+	top: 75.8%;
+}
+
+.mz{
+left: 82%;
+top: 55%;
+}
+
+.controlMutex{
+	left: 38%;
+top: 48%;
+}
+
+.wn{
+left: 58%;
+top: 84%;
+}
+
+.d{
+left: 55%;
+top: 81%;
+}
+
+.wwreg{
+left: 74%;
+top: 3%;
+}
+
+.wreg{
+left: 48%;
+top: 20.3%;
+}
+
+.m2reg{
+	left: 48%;
+
+	top: 22.8%;
+}
+.wmem{
+	left: 48%;
+
+	top: 24.6%;
+}
+.wz{
+	left: 48%;
+
+	top: 26.6%;
+}
+.aluc{
+	left: 48%;
+
+	top: 28.7%;
+}
+.adepend{
+	left: 48%;
+
+	top: 30.7%;
+}
+.bdepend{
+	left: 48%;
+
+	top: 33.5%;
+}
+
+
+
+.ewreg{
+left: 53%;
+top: 14.3%;
+}
+
+.em2reg{
+	left: 54%;
+
+	top: 12.4%;
+}
+.ewmem{
+	left: 59%;
+
+	top: 24.7%;
+}
+.ewz{
+	left: 59%;
+
+	top: 26.5%;
+}
+.ealuc{
+	left: 70%;
+
+	top: 48.6%;
+}
+.eadepend{
+	left: 63.4%;
+
+	top: 42.4%;
+}
+.ebdepend{
+	left: 60.1%;
+
+	top: 58.5%;
+}
+
+.qa{
+	left: 50%;
+
+	top: 49%;
+
+}
+
+.qb{
+	left: 50%;
+
+	top: 64%;
+}
+
+.mr{
+left: 80.1%;
+top: 58.4%;
+
+
+}
+
+.erd{
+	left: 56%;
+
+	top: 37%;
+
+}
+
+.mwreg{
+left: 83.2%;
+top: 20.1%;
+}
+
+.mm2reg{
+	left: 83.3%;
+
+	top: 22.4%;
+}
+.mwmem{
+	left: 85.2%;
+
+	top: 60.7%;
+}
+
+.wr{
+	left: 93.5%;
+
+	top: 58.4%;
+}
+
+.mem_val{
+	left: 91%;
+top: 62%;
+}
+
+.wwreg{
+left: 46.5%;
+top: 39.5%;
+}
+
+.wm2reg{
+	left: 95%;
+
+	top: 54.8%;
+}
+
+.mrd{
+	left: 79.7%;
+
+	top: 37%;
+}
+
+.wrd{
+	left: 94.5%;
+
+	top: 36.5%;
+
+}
+
+#rs1{
+	left: 36.5%;
+	top: 24.1%;
+}
+
+#rs2{
+left: 36.5%;
+	
+top: 28.4%;	
+}
+
+.pinst{
+    top: 58%;
+    left: 27%;
+    display: none;
+}
+.inst{
+    left: 31%;
+    top: 56%;
+    display: none;
+}
+
+.sst{
+    left: 38.7%;
+    top: 42.5%;
+}
+.sext{
+    left: 43%;
+    top: 44%;
+}
+
+#em2reg2{
+    left: 59%;
+    top: 22.5%;
+}
+#ewreg2{
+    left: 59%;
+    top: 20%;
+}
+
+.rnb{
+    left: 40%;
+	
+    top: 57%;
+}
+
+.eqa{
+    left: 56%;
+    top: 47%;
+}
+.eqb{
+    left: 56.5%;
+    top: 61%;
+}
+
+.eimm{
+    left: 57.5%;
+	
+    top: 68.5%;
+}
+
+#erd2{
+    left: 53%;
+    top: 6.2%;
+}
+
+#eqb2{
+    left: 72.8%;
+	
+    top: 74.6%;
+}
+
+#mwreg2{
+    left: 65%;
+    top: 11.4%;
+}
+
+#mz2{
+    left: 77%;
+    top: 1.4%;
+}
+
+#mrd2{
+    left: 69.5%;
+    top: 3.7%;
+}
+
+.mqb{
+    left: 81.4%;
+    top: 76%;
+}
+
+#mr2{
+    left: 68%;
+    top: 13.4%;
+}
+
+.wd{
+    left: 93.4%;
+	
+    top: 65.7%;
+}
+
+.md{
+    left: 90.1%;
+	
+    top: 67.6%;
+    
+}
+
+.alu_mem{
+    left: 96.5%;
+    top: 68.5%;
+}
+
+.code{
+    font-size: 26px;
+    color: blue;
+    position: absolute;
+    top: 88%;
+}
+.code0{
+    left: 18%;
+    /* top: 82%; */
+}
+.code1{
+    left: 39%;
+    /* top: 82%; */
+}
+.code2{
+    left: 61%;
+    /* top: 82%; */
+}
+.code3{
+    left: 80%;
+}
+.code4{
+    left: 88%;
+    top: 94%;
+}
+
+.a{
+    left: 69.5%;
+    top: 54%;
+}
+.b{
+    left: 69.5%;
+    top: 63.7%;
+}
+.z{
+    left: 72.3%;
+    top: 56%;
+}
+.r{
+    left: 72%;
+    top: 61%;
+}
+
+.r1{
+    left: 46.5%;
+    top: 51%;
+}
+.r2{
+	  left: 46.5%;
+    
+	  top: 53%;
+}
+.r3{
+	  left: 46.5%;
+    
+	  top: 55.6%;
+}
+.r4{
+	  left: 46.5%;
+    
+	  top: 58.2%;
+}
+.r5{
+	  left: 46.5%;
+    
+	  top: 60.6%;
+}
+
+#r1{
+    left: 45%;
+    top: 46%;
+}
+#r2{
+	  left: 45%;
+    
+	  top: 48%;
+}
+#r3{
+	  left: 45%;
+    
+	  top: 50%;
+}
+#r4{
+	  left: 45%;
+    
+	  top: 54%;
+}
+#r5{
+	  left: 45%;
+    
+	  top: 57%;
+}
+
+.ram1{
+    left: 85.7%;
+    top: 73%;
+}
+#ram1{
+    left: 84%;
+    top: 74%;
+}
+
+.tag{
+		color: black;
+	position: absolute;
+	font-weight: bold;
+}
+
+.cycle{
+	position: absolute;
+	
+
+	/* left: 2%; */
+	top: 52%;
+}
+
+#cycle{
+	width: 10%;
+
+}
+
+#depend{
+    left: 12.4%;
+    top: 16%;
+}

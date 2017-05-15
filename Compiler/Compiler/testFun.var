@@ -1,0 +1,63 @@
+vname:               k1
+vproc:           subPro
+vkind:                0
+types:           (ints)
+vlev:                 0
+vadr:                 0
+
+vname:               m1
+vproc:           subPro
+vkind:                0
+types:           (ints)
+vlev:                 0
+vadr:                 4
+
+vname:                n
+vproc:                F
+vkind:                1
+types:           (ints)
+vlev:                 1
+vadr:                 8
+
+vname:                n
+vproc:                F
+vkind:                0
+types:           (ints)
+vlev:                 1
+vadr:                12
+
+vname:                n
+vproc:                F
+vkind:                0
+types:           (ints)
+vlev:                 1
+vadr:                16
+
+vname:               n1
+vproc:               F1
+vkind:                1
+types:           (ints)
+vlev:                 2
+vadr:                20
+
+vname:               n1
+vproc:               F1
+vkind:                0
+types:           (ints)
+vlev:                 2
+vadr:                24
+
+vname:               n2
+vproc:               F2
+vkind:                1
+types:           (ints)
+vlev:                 1
+vadr:                28
+
+vname:               n2
+vproc:               F2
+vkind:                0
+types:           (ints)
+vlev:                 1
+vadr:                32
+

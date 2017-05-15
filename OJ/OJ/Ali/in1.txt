@@ -1,0 +1,6 @@
+sheep    cow    orange
+apple    orange
+orange    dog    cat
+dog    cow
+cow
+cat

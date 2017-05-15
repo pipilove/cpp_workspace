@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_workspace"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pipi/files/mine/cpp_workspace/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pipi/files/mine/cpp_workspace/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pipi/files/mine/cpp_workspace/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_workspace">
+				<Option output="/home/pipi/files/mine/cpp_workspace/cmake-build-debug/cpp_workspace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pipi/files/mine/cpp_workspace/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_workspace"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_workspace/fast">
+				<Option output="/home/pipi/files/mine/cpp_workspace/cmake-build-debug/cpp_workspace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pipi/files/mine/cpp_workspace/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_workspace/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pipi/files/mine/cpp_workspace/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/AlpahbetPath.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/TopologicalSort.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/WordReverse.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t1.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t2.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/OJ/OJ/Indeed/Locating.cpp">
+			<Option target="cpp_workspace"/>
+		</Unit>
+		<Unit filename="/home/pipi/files/mine/cpp_workspace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

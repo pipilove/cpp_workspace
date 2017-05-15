@@ -1,0 +1,12 @@
+albw:x
+4
+ls -a -l -a documents -b
+ls
+ls -w 10 -x -w 15
+ls -a -b -c -d -e -l
+
+output:
+Case 1: -a -l
+Case 2:
+Case 3: -w 15 -x
+Case 4: -a -b

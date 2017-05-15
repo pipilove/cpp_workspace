@@ -1,0 +1,26 @@
+
+  integer k1;
+  integer m1;
+  integer function F(n;
+    begin
+      integer n;
+	  integer n;
+	  integer function F1 (n1)
+		begin
+		  integer n1;
+		  if n1<=0 then F1:=1
+		  else F1:=n1*F1(n1-1)
+		end;
+      if n<=0 then F:=1
+      else F:=n*F(n-1)
+    end;
+  integer function F2(n2);
+    begin
+      integer n2;
+      if n2<=0 then F2:=1
+      else F2:=n2*F2(n2-1)
+    end;
+  read (m);
+  k:=F(m);
+  write(k)
+

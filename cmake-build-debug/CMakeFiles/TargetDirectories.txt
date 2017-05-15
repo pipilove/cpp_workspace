@@ -1,0 +1,3 @@
+/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir

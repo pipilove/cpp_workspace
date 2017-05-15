@@ -1,0 +1,4 @@
+/home/pipi/opt/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pipi/files/mine/cpp_workspace
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pipi/files/mine/cpp_workspace/cmake-build-debug

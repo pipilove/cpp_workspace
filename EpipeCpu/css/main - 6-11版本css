@@ -1,0 +1,497 @@
+button{
+	top: 46%;
+	position: absolute;
+}
+.signal {
+	color: red;
+	position: absolute;
+	font-weight: bolder;
+}
+
+.npc{
+	left: 15%;
+
+	top: 20%;
+}
+
+.pc{
+	left: 19%;
+
+	top: 57%;
+}
+
+.pcsource{
+	left: 27.5%;
+
+	top: 10%;
+}
+
+.offset{
+left: 15%;
+top: 34%;
+}
+
+.depend{
+	left: 31%;
+
+	top: 8%;
+
+}
+
+.addr{
+	left: 28%;
+
+	top: 87%;
+}
+
+.op{
+	left: 36.3%;
+
+	top: 35.3%;
+}
+
+#rd1{
+	left: 36%;
+
+	top: 39%;
+}
+
+#rd2{
+	left: 36.5%;
+
+	top: 58%;
+}
+
+.rs1{
+	
+	left: 36%;
+
+	top: 47%;
+
+}
+
+.rs2{
+	left: 36.5%;
+
+	top: 55%;
+}
+
+.imm{
+	left: 47%;
+
+	top: 78%;
+}
+
+.mz{
+left: 82%;
+top: 57%;
+}
+
+.controlMutex{
+	left: 38%;
+top: 48%;
+}
+
+.wn{
+left: 58%;
+top: 84%;
+}
+
+.d{
+left: 55%;
+top: 81%;
+}
+
+.wwreg{
+left: 74%;
+top: 3%;
+}
+
+.wreg{
+left: 48%;
+top: 20%;
+}
+
+.m2reg{
+	left: 48%;
+
+	top: 22.8%;
+}
+.wmem{
+	left: 48%;
+
+	top: 24.6%;
+}
+.wz{
+	left: 48%;
+
+	top: 26.6%;
+}
+.aluc{
+	left: 48%;
+
+	top: 28.7%;
+}
+.adepend{
+	left: 49%;
+
+	top: 30.7%;
+}
+.bdepend{
+	left: 49%;
+
+	top: 33.5%;
+}
+
+
+
+.ewreg{
+left: 53%;
+top: 15%;
+}
+
+.em2reg{
+	left: 55%;
+
+	top: 13%;
+}
+.ewmem{
+	left: 59%;
+
+	top: 24.7%;
+}
+.ewz{
+	left: 59%;
+
+	top: 26.5%;
+}
+.ealuc{
+	left: 59%;
+
+	top: 28.6%;
+}
+.eadepend{
+	left: 59%;
+
+	top: 30.4%;
+}
+.ebdepend{
+	left: 59.6%;
+
+	top: 33.5%;
+}
+
+.qa{
+	left: 50%;
+
+	top: 49%;
+
+}
+
+.qb{
+	left: 50%;
+
+	top: 64%;
+}
+
+.mr{
+left: 80.1%;
+top: 60%;
+
+
+}
+
+.erd{
+	left: 56%;
+
+	top: 37%;
+
+}
+
+.mwreg{
+left: 82%;
+top: 20%;
+}
+
+.mm2reg{
+	left: 82.4%;
+
+	top: 22.4%;
+}
+.mwmem{
+	left: 83%;
+
+	top: 24.5%;
+}
+
+.wr{
+	left: 93%;
+
+	top: 60.5%;
+}
+
+.mem_val{
+	left: 91%;
+top: 62%;
+}
+
+.wwreg{
+left: 95.5%;
+top: 20.5%;
+}
+
+.wm2reg{
+	left: 96%;
+
+	top: 24%;
+}
+
+.mrd{
+	left: 81%;
+
+	top: 39%;
+}
+
+.wrd{
+	left: 94%;
+
+	top: 39%;
+
+}
+
+#rs1{
+	left: 36%;
+	top: 27.5%;
+}
+
+#rs2{
+left: 36%;
+	
+top: 31.8%;	
+}
+
+.pinst{
+    top: 58%;
+    left: 27%;
+    display: none;
+}
+.inst{
+    left: 31%;
+    top: 56%;
+    display: none;
+}
+
+.sst{
+    left: 39.5%;
+    top: 44%;
+}
+.sext{
+    left: 42.5%;
+    top: 45%;
+}
+
+#em2reg2{
+    left: 59%;
+    top: 22.5%;
+}
+#ewreg2{
+    left: 59%;
+    top: 20%;
+}
+
+.rnb{
+    left: 40%;
+	
+    top: 57%;
+}
+
+.eqa{
+    left: 57%;
+    top: 47%;
+}
+.eqb{
+    left: 56.5%;
+    top: 61%;
+}
+
+.eimm{
+    left: 56%;
+	
+    top: 70%;
+}
+
+#erd2{
+    left: 52%;
+    top: 8%;
+}
+
+#eqb2{
+    left: 63%;
+	
+    top: 78%;
+}
+
+#mwreg2{
+    left: 65%;
+    top: 12.4%;
+}
+
+#mz2{
+    left: 77%;
+    top: 2%;
+}
+
+#mrd2{
+    left: 69%;
+    top: 5%;
+}
+
+.mqb{
+    left: 80%;
+    top: 78%;
+}
+
+#mr2{
+    left: 68%;
+    top: 14%;
+}
+
+.wd{
+    left: 92%;
+	
+    top: 70%;
+    display: none;
+}
+
+.md{
+    left: 88.5%;
+	
+    top: 69%;
+    display: none;
+}
+
+.alu_mem{
+    left: 97.5%;
+    top: 76.5%;
+}
+
+.code{
+    font-size: 26px;
+    color: blue;
+    position: absolute;
+    top: 88%;
+}
+.code0{
+    left: 18%;
+    /* top: 82%; */
+}
+.code1{
+    left: 39%;
+    /* top: 82%; */
+}
+.code2{
+    left: 61%;
+    /* top: 82%; */
+}
+.code3{
+    left: 80%;
+}
+.code4{
+    left: 88%;
+    top: 94%;
+}
+
+.a{
+    left: 69.5%;
+    top: 55%;
+}
+.b{
+    left: 69.5%;
+    top: 64%;
+}
+.z{
+    left: 72%;
+    top: 57.5%;
+}
+.r{
+    left: 72%;
+    top: 61%;
+}
+
+.r1{
+    left: 46.5%;
+    top: 48%;
+}
+.r2{
+	  left: 46.5%;
+    
+	  top: 50%;
+}
+.r3{
+	  left: 46.5%;
+    
+	  top: 55%;
+}
+.r4{
+	  left: 46.5%;
+    
+	  top: 57%;
+}
+.r5{
+	  left: 46.5%;
+    
+	  top: 60%;
+}
+
+#r1{
+    left: 45%;
+    top: 46%;
+}
+#r2{
+	  left: 45%;
+    
+	  top: 48%;
+}
+#r3{
+	  left: 45%;
+    
+	  top: 50%;
+}
+#r4{
+	  left: 45%;
+    
+	  top: 54%;
+}
+#r5{
+	  left: 45%;
+    
+	  top: 57%;
+}
+
+.ram1{
+    left: 86.5%;
+    top: 74%;
+}
+#ram1{
+    left: 84%;
+    top: 74%;
+}
+
+.tag{
+		color: black;
+	position: absolute;
+	font-weight: bold;
+}
+
+.cycle{
+	position: absolute;
+	
+
+	left: 2%;
+	top: 52%;
+}
+
+#cycle{
+	width: 10%;
+
+}
