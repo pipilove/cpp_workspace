@@ -11,7 +11,82 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42ccee2b-5196-4d6e-9529-bfddaf102a4a" name="Default" comment="" />
+    <list default="true" id="42ccee2b-5196-4d6e-9529-bfddaf102a4a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/JustForTest/JustForTest/JustForTest.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/JustForTest/JustForTest/bitsetTest.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/AlpahbetPath.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/TopologicalSort.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/WordReverse.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/alitest.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t1.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t2.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Indeed/Locating.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/io.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/main.cpp.o" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Algorithms/seniorDesign&amp;Analysis/DP/MatrixMultiply.cpp" afterPath="$PROJECT_DIR$/OJ/OJ/DP/MatrixMultiply.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Algorithms/seniorDesign&amp;Analysis/DP/MatrixMultiply.in" afterPath="$PROJECT_DIR$/OJ/OJ/DP/MatrixMultiply.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Algorithms/seniorDesign&amp;Analysis/DP/MatrixMultiply1.cpp" afterPath="$PROJECT_DIR$/OJ/OJ/DP/MatrixMultiply1.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/AlpahbetPath.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/AlpahbetPath.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/Letter.txt" afterPath="$PROJECT_DIR$/OJ/Job/Ali/Letter.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/TopologicalSort.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/TopologicalSort.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/WordReverse.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/WordReverse.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/alitest.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/alitest.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/in.txt" afterPath="$PROJECT_DIR$/OJ/Job/Ali/in.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/in1.txt" afterPath="$PROJECT_DIR$/OJ/Job/Ali/in1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/t1.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/t1.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Ali/t2.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Ali/t2.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/FunnyNum.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/FunnyNum.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/FunnyNum.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/FunnyNum.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/ISBN.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/ISBN.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/LargestRectangle.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/LargestRectangle.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/RevNum.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/RevNum.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/Stuck.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/Stuck.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/Stuck.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/Stuck.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/cmdOpt.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/cmdOpt.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/cmdOpt.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/cmdOpt.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/isbn.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/isbn.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/largestRectangle.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/largestRectangle.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/largestRectangle1.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/largestRectangle1.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/mostOftenNum.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/mostOftenNum.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/mostOftenNum.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/mostOftenNum.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/windows.cpp" afterPath="$PROJECT_DIR$/OJ/Job/CCF/windows.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/CCF/windows.in" afterPath="$PROJECT_DIR$/OJ/Job/CCF/windows.in" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/Indeed/Locating.cpp" afterPath="$PROJECT_DIR$/OJ/Job/Indeed/Locating.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/mathematic/FunnyNum.cpp" afterPath="$PROJECT_DIR$/OJ/OJ/Math/FunnyNum.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OJ/OJ/mathematic/FunnyNum.in" afterPath="$PROJECT_DIR$/OJ/OJ/Math/FunnyNum.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_workspace" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_workspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OJ/OJ/io.cpp" afterPath="$PROJECT_DIR$/OJ/OJ/io.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OJ/OJ/test.cpp" afterPath="$PROJECT_DIR$/OJ/OJ/test.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/depend.internal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/depend.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_workspace.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_workspace.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_workspace.cbp" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,20 +104,20 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="120">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t1.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/t1.cpp">
+      <file leaf-file-name="test.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OJ/OJ/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,6 +135,9 @@
       <replace>long long</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,7 +147,6 @@
         <option value="$PROJECT_DIR$/Algorithms/Algorithms/sort&amp;select&amp;search/mySortDefine.h" />
         <option value="$PROJECT_DIR$/Algorithms/Algorithms/seniorDesign&amp;Analysis/SeniorTestMain.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/string/subStr.cpp" />
-        <option value="$PROJECT_DIR$/OJ/OJ/io.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/in.txt" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/alitest.cpp" />
         <option value="$PROJECT_DIR$/firstprogram/C++FirstExperiment/C++FirstExperiment/Set.cpp" />
@@ -77,7 +154,6 @@
         <option value="$PROJECT_DIR$/JustForTest/JustForTest/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/JustForTest/JustForTest/bitsetTest.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/1.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/t1.cpp" />
         <option value="$PROJECT_DIR$/JustForTest/JustForTest/JustForTest.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/TopologicalSort.cpp" />
@@ -86,8 +162,17 @@
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/AlpahbetPath.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/in1.txt" />
         <option value="$PROJECT_DIR$/OJ/OJ/Ali/t2.cpp" />
-        <option value="$PROJECT_DIR$/OJ/OJ/test.cpp" />
         <option value="$PROJECT_DIR$/OJ/OJ/Indeed/Locating.cpp" />
+        <option value="$PROJECT_DIR$/OJ/OJ/BitManipulation/GrayCode.cpp" />
+        <option value="$PROJECT_DIR$/OJ/OJ/io.cpp" />
+        <option value="$PROJECT_DIR$/OJ/Job/WAP/LargestNumber.cpp" />
+        <option value="$PROJECT_DIR$/OJ/kaka.cpp" />
+        <option value="$PROJECT_DIR$/OJ/Job/WAP/NthDigit.cpp" />
+        <option value="$PROJECT_DIR$/OJ/Job/WAP/OddPalindromeStr.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/OJ/OJ/DP/LCS.cpp" />
+        <option value="$PROJECT_DIR$/OJ/OJ/DP/EditDistance.cpp" />
+        <option value="$PROJECT_DIR$/OJ/OJ/test.cpp" />
       </list>
     </option>
   </component>
@@ -125,6 +210,9 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -171,6 +259,82 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JustForTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -179,7 +343,7 @@
     <property name="options.lastSelected" value="configurable.group.editor" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug/cpp_workspace" />
@@ -192,11 +356,14 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Algorithms/Algorithms" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OJ/OJ" />
+      <recent name="$PROJECT_DIR$/OJ/OJ/Math" />
+      <recent name="$PROJECT_DIR$/OJ/Job" />
       <recent name="$PROJECT_DIR$/JustForTest/JustForTest" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithms/Algorithms" />
       <recent name="$PROJECT_DIR$/JustForTest/JustForTest" />
     </key>
   </component>
@@ -463,11 +630,37 @@
       <workItem from="1493800920270" duration="6918000" />
       <workItem from="1493807884932" duration="12138000" />
       <workItem from="1494676048473" duration="5125000" />
+      <workItem from="1494922442577" duration="5176000" />
+      <workItem from="1494933462903" duration="5682000" />
+      <workItem from="1494982642373" duration="91000" />
+      <workItem from="1494982766907" duration="6213000" />
+      <workItem from="1495068459382" duration="9262000" />
+      <workItem from="1495155712117" duration="2073000" />
+      <workItem from="1495357735258" duration="1243000" />
+      <workItem from="1495520494929" duration="940000" />
+      <workItem from="1495695722965" duration="2301000" />
+      <workItem from="1495786815021" duration="11934000" />
+      <workItem from="1495847141521" duration="2331000" />
+      <workItem from="1496062683620" duration="1240000" />
+      <workItem from="1496479373360" duration="1150000" />
+      <workItem from="1496498207422" duration="5304000" />
+      <workItem from="1496578324962" duration="5464000" />
+      <workItem from="1496624623434" duration="16863000" />
+      <workItem from="1496714358588" duration="6509000" />
+      <workItem from="1496886950995" duration="15840000" />
+      <workItem from="1498726769650" duration="829000" />
+      <workItem from="1502027639572" duration="4054000" />
+      <workItem from="1502525619553" duration="1983000" />
+      <workItem from="1504951571737" duration="88000" />
+      <workItem from="1504951676942" duration="14000" />
+      <workItem from="1506602938469" duration="22000" />
+      <workItem from="1508242365237" duration="599000" />
+      <workItem from="1509327996795" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70978000" />
+    <option name="totallyTimeSpent" value="178205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,24 +675,24 @@
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1298077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.119119875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32745728" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33760685" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32318377" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34597877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32701063" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -510,43 +703,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="62" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="dist[j]" language="ObjectiveC" />
+        <watch expression="opt[j]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JustForTest/JustForTest/cmake-build-debug/CMakeCache.txt" />
-    <entry file="file://$PROJECT_DIR$/JustForTest/JustForTest/cmake-build-debug/cpp_workspace.cbp" />
-    <entry file="file://$PROJECT_DIR$/JustForTest/JustForTest/cmake-build-debug/Makefile" />
-    <entry file="file://$PROJECT_DIR$/Algorithms/Algorithms/BasicDataStructure/StructTestMain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BDMS/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Algorithms/CMakeLists.txt" />
-    <entry file="file://$PROJECT_DIR$/Algorithms/Algorithms/NotRecommendAlgorithm.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Algorithms/sort&amp;select&amp;search/mySortDefine.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JustForTest/JustForTest/ReadMe.txt" />
     <entry file="file://$PROJECT_DIR$/Algorithms/Algorithms/sort&amp;select&amp;search/SortTestMain.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -675,7 +842,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/1.in.txt" />
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/alitest.cpp">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/alitest.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
           <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
@@ -693,106 +860,151 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/string.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="342" column="13" lean-forward="false" selection-start-line="342" selection-start-column="13" selection-end-line="342" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/in.txt">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/in.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/WordReverse.cpp">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/WordReverse.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/AlpahbetPath.cpp">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/AlpahbetPath.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="152" column="14" lean-forward="false" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/TopologicalSort.cpp">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/TopologicalSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/Letter.txt">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/Letter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/in1.txt">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/in1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/t2.cpp">
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/t2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Indeed/Locating.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="145" column="17" lean-forward="false" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/Job/Ali/t1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/OJ/BitManipulation/GrayCode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="142" column="17" lean-forward="false" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OJ/OJ/io.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="823">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/kaka.h" />
+    <entry file="file://$PROJECT_DIR$/OJ/kaka.cpp" />
+    <entry file="file://$PROJECT_DIR$/OJ/OJ/Math/NthDigit.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/OJ/DP/MatrixMultiply.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/Job/WAP/LargestNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/Job/WAP/OddPalindromeStr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="61" column="77" lean-forward="true" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/OJ/DP/EditDistance.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OJ/OJ/DP/LCS.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="82" column="33" lean-forward="true" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OJ/OJ/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Indeed/Locating.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="145" column="17" lean-forward="false" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OJ/OJ/Ali/t1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

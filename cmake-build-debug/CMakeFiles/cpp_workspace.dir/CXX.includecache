@@ -6,47 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/AlpahbetPath.cpp
+/home/pipi/files/mine/cpp_workspace/OJ/OJ/DP/EditDistance.cpp
 iostream
--
-fstream
 -
 
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/TopologicalSort.cpp
+/home/pipi/files/mine/cpp_workspace/OJ/OJ/DP/LCS.cpp
 iostream
 -
-list
--
-queue
--
-set
--
-map
+
+/home/pipi/files/mine/cpp_workspace/OJ/OJ/test.cpp
+stdio.h
 -
 string.h
 -
-
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/WordReverse.cpp
-iostream
--
-string.h
--
-fstream
--
-
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t1.cpp
-iostream
--
-vector
--
-
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t2.cpp
-
-/home/pipi/files/mine/cpp_workspace/OJ/OJ/Indeed/Locating.cpp
-iostream
--
-ctime
--
-cmath
+stdlib.h
 -
 

@@ -1,5 +1,5 @@
 //***************************************************/
-//*		 ÓÐÈ¤µÄÊý	nyoj 85			Æ¤Æ¤ 2014-9-7	*/
+//*		 ï¿½ï¿½È¤ï¿½ï¿½ï¿½ï¿½	nyoj 85			Æ¤Æ¤ 2014-9-7	*/
 //***************************************************/
 #include <assert.h>
 #include <stdio.h>
@@ -21,9 +21,9 @@ static void funnyNum(){
 
 static void funnyNum1(){  
 	int m,d,s,g,i;
-	scanf("%d", &d);								//d¿ÉÒÔ = INT_MAX
+	scanf("%d", &d);								//dï¿½ï¿½ï¿½ï¿½ = INT_MAX
 	s=g=0;  
-	for(i=1;i<d;i++){								//¼ÓºÍÒ»Ö±¼Óµ½a*(a+1) > n
+	for(i=1;i<d;i++){								//ï¿½Óºï¿½Ò»Ö±ï¿½Óµï¿½a*(a+1) > n
 		s+=i;  
 		if(s>=d) break;  
 		g+=i;  
@@ -35,7 +35,7 @@ static void funnyNum1(){
 }
 
 int __514564165main(){
-	assert( freopen("mathematic\\FunnyNum.in", "r", stdin) );
+	assert( freopen("Math\\FunnyNum.in", "r", stdin) );
 	int cases;
 	scanf("%d", &cases);
 

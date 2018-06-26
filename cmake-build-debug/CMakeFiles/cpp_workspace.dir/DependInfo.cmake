@@ -4,12 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/AlpahbetPath.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/AlpahbetPath.cpp.o"
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/TopologicalSort.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/TopologicalSort.cpp.o"
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/WordReverse.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/WordReverse.cpp.o"
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t1.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t1.cpp.o"
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Ali/t2.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t2.cpp.o"
-  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/Indeed/Locating.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/Indeed/Locating.cpp.o"
+  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/DP/EditDistance.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/EditDistance.cpp.o"
+  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/DP/LCS.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/LCS.cpp.o"
+  "/home/pipi/files/mine/cpp_workspace/OJ/OJ/test.cpp" "/home/pipi/files/mine/cpp_workspace/cmake-build-debug/CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

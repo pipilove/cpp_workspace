@@ -123,167 +123,86 @@ cpp_workspace/fast:
 	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/build
 .PHONY : cpp_workspace/fast
 
-OJ/OJ/Ali/AlpahbetPath.o: OJ/OJ/Ali/AlpahbetPath.cpp.o
+OJ/OJ/DP/EditDistance.o: OJ/OJ/DP/EditDistance.cpp.o
 
-.PHONY : OJ/OJ/Ali/AlpahbetPath.o
-
-# target to build an object file
-OJ/OJ/Ali/AlpahbetPath.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/AlpahbetPath.cpp.o
-.PHONY : OJ/OJ/Ali/AlpahbetPath.cpp.o
-
-OJ/OJ/Ali/AlpahbetPath.i: OJ/OJ/Ali/AlpahbetPath.cpp.i
-
-.PHONY : OJ/OJ/Ali/AlpahbetPath.i
-
-# target to preprocess a source file
-OJ/OJ/Ali/AlpahbetPath.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/AlpahbetPath.cpp.i
-.PHONY : OJ/OJ/Ali/AlpahbetPath.cpp.i
-
-OJ/OJ/Ali/AlpahbetPath.s: OJ/OJ/Ali/AlpahbetPath.cpp.s
-
-.PHONY : OJ/OJ/Ali/AlpahbetPath.s
-
-# target to generate assembly for a file
-OJ/OJ/Ali/AlpahbetPath.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/AlpahbetPath.cpp.s
-.PHONY : OJ/OJ/Ali/AlpahbetPath.cpp.s
-
-OJ/OJ/Ali/TopologicalSort.o: OJ/OJ/Ali/TopologicalSort.cpp.o
-
-.PHONY : OJ/OJ/Ali/TopologicalSort.o
+.PHONY : OJ/OJ/DP/EditDistance.o
 
 # target to build an object file
-OJ/OJ/Ali/TopologicalSort.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/TopologicalSort.cpp.o
-.PHONY : OJ/OJ/Ali/TopologicalSort.cpp.o
+OJ/OJ/DP/EditDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/EditDistance.cpp.o
+.PHONY : OJ/OJ/DP/EditDistance.cpp.o
 
-OJ/OJ/Ali/TopologicalSort.i: OJ/OJ/Ali/TopologicalSort.cpp.i
+OJ/OJ/DP/EditDistance.i: OJ/OJ/DP/EditDistance.cpp.i
 
-.PHONY : OJ/OJ/Ali/TopologicalSort.i
+.PHONY : OJ/OJ/DP/EditDistance.i
 
 # target to preprocess a source file
-OJ/OJ/Ali/TopologicalSort.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/TopologicalSort.cpp.i
-.PHONY : OJ/OJ/Ali/TopologicalSort.cpp.i
+OJ/OJ/DP/EditDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/EditDistance.cpp.i
+.PHONY : OJ/OJ/DP/EditDistance.cpp.i
 
-OJ/OJ/Ali/TopologicalSort.s: OJ/OJ/Ali/TopologicalSort.cpp.s
+OJ/OJ/DP/EditDistance.s: OJ/OJ/DP/EditDistance.cpp.s
 
-.PHONY : OJ/OJ/Ali/TopologicalSort.s
+.PHONY : OJ/OJ/DP/EditDistance.s
 
 # target to generate assembly for a file
-OJ/OJ/Ali/TopologicalSort.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/TopologicalSort.cpp.s
-.PHONY : OJ/OJ/Ali/TopologicalSort.cpp.s
+OJ/OJ/DP/EditDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/EditDistance.cpp.s
+.PHONY : OJ/OJ/DP/EditDistance.cpp.s
 
-OJ/OJ/Ali/WordReverse.o: OJ/OJ/Ali/WordReverse.cpp.o
+OJ/OJ/DP/LCS.o: OJ/OJ/DP/LCS.cpp.o
 
-.PHONY : OJ/OJ/Ali/WordReverse.o
+.PHONY : OJ/OJ/DP/LCS.o
 
 # target to build an object file
-OJ/OJ/Ali/WordReverse.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/WordReverse.cpp.o
-.PHONY : OJ/OJ/Ali/WordReverse.cpp.o
+OJ/OJ/DP/LCS.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/LCS.cpp.o
+.PHONY : OJ/OJ/DP/LCS.cpp.o
 
-OJ/OJ/Ali/WordReverse.i: OJ/OJ/Ali/WordReverse.cpp.i
+OJ/OJ/DP/LCS.i: OJ/OJ/DP/LCS.cpp.i
 
-.PHONY : OJ/OJ/Ali/WordReverse.i
+.PHONY : OJ/OJ/DP/LCS.i
 
 # target to preprocess a source file
-OJ/OJ/Ali/WordReverse.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/WordReverse.cpp.i
-.PHONY : OJ/OJ/Ali/WordReverse.cpp.i
+OJ/OJ/DP/LCS.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/LCS.cpp.i
+.PHONY : OJ/OJ/DP/LCS.cpp.i
 
-OJ/OJ/Ali/WordReverse.s: OJ/OJ/Ali/WordReverse.cpp.s
+OJ/OJ/DP/LCS.s: OJ/OJ/DP/LCS.cpp.s
 
-.PHONY : OJ/OJ/Ali/WordReverse.s
+.PHONY : OJ/OJ/DP/LCS.s
 
 # target to generate assembly for a file
-OJ/OJ/Ali/WordReverse.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/WordReverse.cpp.s
-.PHONY : OJ/OJ/Ali/WordReverse.cpp.s
+OJ/OJ/DP/LCS.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/DP/LCS.cpp.s
+.PHONY : OJ/OJ/DP/LCS.cpp.s
 
-OJ/OJ/Ali/t1.o: OJ/OJ/Ali/t1.cpp.o
+OJ/OJ/test.o: OJ/OJ/test.cpp.o
 
-.PHONY : OJ/OJ/Ali/t1.o
+.PHONY : OJ/OJ/test.o
 
 # target to build an object file
-OJ/OJ/Ali/t1.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t1.cpp.o
-.PHONY : OJ/OJ/Ali/t1.cpp.o
+OJ/OJ/test.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.o
+.PHONY : OJ/OJ/test.cpp.o
 
-OJ/OJ/Ali/t1.i: OJ/OJ/Ali/t1.cpp.i
+OJ/OJ/test.i: OJ/OJ/test.cpp.i
 
-.PHONY : OJ/OJ/Ali/t1.i
-
-# target to preprocess a source file
-OJ/OJ/Ali/t1.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t1.cpp.i
-.PHONY : OJ/OJ/Ali/t1.cpp.i
-
-OJ/OJ/Ali/t1.s: OJ/OJ/Ali/t1.cpp.s
-
-.PHONY : OJ/OJ/Ali/t1.s
-
-# target to generate assembly for a file
-OJ/OJ/Ali/t1.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t1.cpp.s
-.PHONY : OJ/OJ/Ali/t1.cpp.s
-
-OJ/OJ/Ali/t2.o: OJ/OJ/Ali/t2.cpp.o
-
-.PHONY : OJ/OJ/Ali/t2.o
-
-# target to build an object file
-OJ/OJ/Ali/t2.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t2.cpp.o
-.PHONY : OJ/OJ/Ali/t2.cpp.o
-
-OJ/OJ/Ali/t2.i: OJ/OJ/Ali/t2.cpp.i
-
-.PHONY : OJ/OJ/Ali/t2.i
+.PHONY : OJ/OJ/test.i
 
 # target to preprocess a source file
-OJ/OJ/Ali/t2.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t2.cpp.i
-.PHONY : OJ/OJ/Ali/t2.cpp.i
+OJ/OJ/test.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.i
+.PHONY : OJ/OJ/test.cpp.i
 
-OJ/OJ/Ali/t2.s: OJ/OJ/Ali/t2.cpp.s
+OJ/OJ/test.s: OJ/OJ/test.cpp.s
 
-.PHONY : OJ/OJ/Ali/t2.s
-
-# target to generate assembly for a file
-OJ/OJ/Ali/t2.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Ali/t2.cpp.s
-.PHONY : OJ/OJ/Ali/t2.cpp.s
-
-OJ/OJ/Indeed/Locating.o: OJ/OJ/Indeed/Locating.cpp.o
-
-.PHONY : OJ/OJ/Indeed/Locating.o
-
-# target to build an object file
-OJ/OJ/Indeed/Locating.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Indeed/Locating.cpp.o
-.PHONY : OJ/OJ/Indeed/Locating.cpp.o
-
-OJ/OJ/Indeed/Locating.i: OJ/OJ/Indeed/Locating.cpp.i
-
-.PHONY : OJ/OJ/Indeed/Locating.i
-
-# target to preprocess a source file
-OJ/OJ/Indeed/Locating.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Indeed/Locating.cpp.i
-.PHONY : OJ/OJ/Indeed/Locating.cpp.i
-
-OJ/OJ/Indeed/Locating.s: OJ/OJ/Indeed/Locating.cpp.s
-
-.PHONY : OJ/OJ/Indeed/Locating.s
+.PHONY : OJ/OJ/test.s
 
 # target to generate assembly for a file
-OJ/OJ/Indeed/Locating.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/Indeed/Locating.cpp.s
-.PHONY : OJ/OJ/Indeed/Locating.cpp.s
+OJ/OJ/test.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_workspace.dir/build.make CMakeFiles/cpp_workspace.dir/OJ/OJ/test.cpp.s
+.PHONY : OJ/OJ/test.cpp.s
 
 # Help Target
 help:
@@ -294,24 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_workspace"
-	@echo "... OJ/OJ/Ali/AlpahbetPath.o"
-	@echo "... OJ/OJ/Ali/AlpahbetPath.i"
-	@echo "... OJ/OJ/Ali/AlpahbetPath.s"
-	@echo "... OJ/OJ/Ali/TopologicalSort.o"
-	@echo "... OJ/OJ/Ali/TopologicalSort.i"
-	@echo "... OJ/OJ/Ali/TopologicalSort.s"
-	@echo "... OJ/OJ/Ali/WordReverse.o"
-	@echo "... OJ/OJ/Ali/WordReverse.i"
-	@echo "... OJ/OJ/Ali/WordReverse.s"
-	@echo "... OJ/OJ/Ali/t1.o"
-	@echo "... OJ/OJ/Ali/t1.i"
-	@echo "... OJ/OJ/Ali/t1.s"
-	@echo "... OJ/OJ/Ali/t2.o"
-	@echo "... OJ/OJ/Ali/t2.i"
-	@echo "... OJ/OJ/Ali/t2.s"
-	@echo "... OJ/OJ/Indeed/Locating.o"
-	@echo "... OJ/OJ/Indeed/Locating.i"
-	@echo "... OJ/OJ/Indeed/Locating.s"
+	@echo "... OJ/OJ/DP/EditDistance.o"
+	@echo "... OJ/OJ/DP/EditDistance.i"
+	@echo "... OJ/OJ/DP/EditDistance.s"
+	@echo "... OJ/OJ/DP/LCS.o"
+	@echo "... OJ/OJ/DP/LCS.i"
+	@echo "... OJ/OJ/DP/LCS.s"
+	@echo "... OJ/OJ/test.o"
+	@echo "... OJ/OJ/test.i"
+	@echo "... OJ/OJ/test.s"
 .PHONY : help
 
 
